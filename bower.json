@@ -1,0 +1,17 @@
+{
+    "name": "gurajada-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Purushoth Kumar Guttula"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/gurajada-bower.git"
+    },
+    "description": "Gurajada font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
